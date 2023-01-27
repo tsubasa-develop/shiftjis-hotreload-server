@@ -1,3 +1,21 @@
+### 使い方 (ローカルインストール)
+package.jsonに以下を追加 (./srcを監視)
+```
+  "scripts": {
+    "server": "shiftjis-server -b -d ./src"
+  },
+```
+実行
+```
+yarn server
+npm run server
+```
+
+### 使い方 (グローバルインストール)
+```
+shiftjis-server -b -d ./src
+```
+
 ### Usage for Command Line Application
 
 ```
