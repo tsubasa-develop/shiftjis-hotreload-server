@@ -1,3 +1,15 @@
+### インストール
+ローカル
+```
+npm install --save-dev shiftjis-server
+yarn add -D shiftjis-server
+```
+グローバル
+```
+npm install -g shiftjis-server
+yarn global add shiftjis-server
+```
+
 ### 使い方 (ローカルインストール)
 package.jsonに以下を追加 (./srcを監視)
 ```
