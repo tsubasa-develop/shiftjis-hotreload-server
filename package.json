@@ -10,6 +10,7 @@
   "bin": {
     "shiftjis-server": "./bin/reload"
   },
+  "homepage": "https://github.com/tsubasa-develop/shiftjis-hotreload-server",
   "repository": {
     "type": "git",
     "url": "git@github.com.sub:tsubasa-develop/shiftjis-hotreload-server.git"
