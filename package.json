@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "./bin/reload -b",
+    "start": "./bin/reload -b -d ./src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
